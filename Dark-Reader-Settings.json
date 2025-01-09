@@ -1,6 +1,10 @@
 {
     "applyToListedOnly": false,
-    "automation": "",
+    "automation": {
+        "enabled": true,
+        "mode": "system",
+        "behavior": "OnOff"
+    },
     "changeBrowserTheme": false,
     "customThemes": [],
     "enableForPDF": true,
